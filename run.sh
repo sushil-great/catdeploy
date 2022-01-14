@@ -1,3 +1,3 @@
-git clone https://github.com//catpack catbot
-cd catbot
+git clone https://github.com/jison09/catpack catpack
+cd catpack
 python3 start
